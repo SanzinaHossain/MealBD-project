@@ -1,0 +1,20 @@
+/* search part */
+body{
+   background-color: rgb(59, 33, 13);
+}
+.nav-design{
+    background-color:rgb(19, 10, 5);
+}
+
+.search-button{
+    background-color:yellowgreen;
+    color:white;
+    font-weight: 700;
+}
+h1{
+    color:yellowgreen;
+    font-weight: 600;
+}
+.meal-card{
+    width:20rem;
+}
