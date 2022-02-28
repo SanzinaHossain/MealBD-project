@@ -1,15 +1,38 @@
 /* search part */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cookie&family=Fredoka+One&family=Mochiy+Pop+P+One&family=Pacifico&family=Poppins:ital@0;1&family=Righteous&family=Secular+One&display=swap');
 body{
    background-color: rgb(59, 33, 13);
 }
 .nav-design{
     background-color:rgb(19, 10, 5);
 }
+.meal{
+    font-size: xx-large;
+    color:orange;
+    font-family: 'Anton', sans-serif;
 
+    font-family: 'Cookie', cursive;
+
+    font-family: 'Fredoka One', cursive;
+
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Righteous', cursive;
+
+    font-family: 'Secular One', sans-serif;
+}
 .search-button{
     background-color:yellowgreen;
     color:white;
     font-weight: 700;
+}
+li.a{
+    text-decoration: none;
+    color:white;
 }
 h1{
     color:yellowgreen;
